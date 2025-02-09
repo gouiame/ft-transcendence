@@ -139,8 +139,6 @@ services:
 
 volumes:
   postgres_data:
-  static:
-  media:
   certs:
   elasticsearch:
   kibana:
